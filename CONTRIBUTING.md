@@ -12,7 +12,7 @@ We follow a structured branching convention. All new branches must follow the fo
 
 `<type>/<owner-name>/<brief-description>`
 
-### Supported Types:
+### Supported Types
 
 - `feature/`: For new functionality or major enhancements.
 - `bug/`: For resolving unexpected behavior or defects.
@@ -20,7 +20,7 @@ We follow a structured branching convention. All new branches must follow the fo
 - `docs/`: For documentation updates.
 - `refactor/`: For code improvements that do not change behavior.
 
-### Example:
+### Example
 
 - `feature/aligned-automation/context-engine`
 - `fix/john-doe/weather-api-timeout`
