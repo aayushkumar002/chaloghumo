@@ -12,7 +12,7 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice (including the next paragraph) shall be included in all
 copies or substantial portions of the Software.
 
-**CITATION REQUIREMENT:** 
+**CITATION REQUIREMENT:**
 Any use, redistribution, or derivative work of this software or its documentation must include a prominent citation and link to the original project repository: [https://github.com/bc0de0/chaloghumo.git](https://github.com/bc0de0/chaloghumo.git) and acknowledge the **Aligned Automation** team as the original authors.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
