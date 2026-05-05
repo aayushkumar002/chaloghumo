@@ -51,20 +51,26 @@ chaloghumo/
 ## ⚡ Getting Started
 
 ### Prerequisites
+
 - Docker & Docker Compose
 - Google AI / Vertex AI API Key
 
 ### Launch with Docker
+
 1. Clone the repository.
 2. Create a `.env` file from `.env.example`:
+
    ```bash
    cp .env.example .env
    ```
+
 3. Update your `GOOGLE_API_KEY` in the `.env` file.
 4. Launch the stack:
+
    ```bash
    docker-compose up --build
    ```
+
 5. Access the API at `http://localhost:8000`.
 6. Interactive API docs are available at `http://localhost:8000/docs`.
 
